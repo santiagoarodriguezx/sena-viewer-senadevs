@@ -86,7 +86,3 @@ src/
    java -cp bin App
    ```
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio importante.
-
